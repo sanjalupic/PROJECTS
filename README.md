@@ -1,3 +1,3 @@
 # PROJECTS
 
-Projects was made following instructions in "udemy" course. 
+Projects were made following instructions in "udemy" course. 
